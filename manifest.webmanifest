@@ -1,0 +1,8 @@
+{
+    "name": "bike wear Checker",
+    "short_name": "wear Check",
+    "start_url":"/",
+    "display":"standalone",
+    "id":"999999",
+    "icons": "icons/icons.json"
+ }
